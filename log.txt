@@ -1,0 +1,33 @@
+No more dirty cells
+Time: 34.15, Time Limit: 60
+Dirty Cells: 0, Clean Cells: 91
+Dirty Cell Percentage: %0, Clean Cell Percentage: %100 
+Agents: 9
+Agent: 1000, Movements: 224
+Agent: 1001, Movements: 225
+Agent: 1002, Movements: 227
+Agent: 1003, Movements: 221
+Agent: 1004, Movements: 230
+Agent: 1005, Movements: 238
+Agent: 1006, Movements: 228
+Agent: 1007, Movements: 225
+Agent: 1008, Movements: 218
+
+No more dirty cells
+Time: 37.1, Time Limit: 60
+Dirty Cells: 0, Clean Cells: 95
+Dirty Cell Percentage: %0, Clean Cell Percentage: %100 
+Agents: 5
+Agent: 1000, Movements: 243
+Agent: 1001, Movements: 237
+Agent: 1002, Movements: 262
+Agent: 1003, Movements: 244
+Agent: 1004, Movements: 253
+
+Time limit exceeded
+Time: 60.62, Time Limit: 60
+Dirty Cells: 34, Clean Cells: 65
+Dirty Cell Percentage: %61.82, Clean Cell Percentage: %65.0 
+Agents: 1
+Agent: 1000, Movements: 159
+
